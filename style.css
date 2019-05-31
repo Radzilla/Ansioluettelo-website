@@ -1,0 +1,12 @@
+p { color: #555; }
+h1 {color: blue }
+h2 {color: #333}
+body {
+color: #555;
+line-height: 1.5;
+padding: 4em 1 em;
+margin: 0 auto;
+max-width: 50em;
+}
+ol {color: #555}
+
